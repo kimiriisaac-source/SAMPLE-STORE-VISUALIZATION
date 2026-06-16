@@ -1,0 +1,72 @@
+# Retail Business Intelligence Dashboard Report
+
+## Introduction
+
+For this project, I built a Power BI dashboard using the Superstore dataset. The goal was to transform raw sales data into meaningful business insights by analyzing sales performance, profitability, customer behavior, and regional performance.
+
+The dashboard provides decision-makers with a clear view of business performance, helping them identify trends, opportunities, and areas that require improvement without relying on complex spreadsheets.
+
+## Business Objective
+
+The main objective was to convert unorganized retail data into interactive and useful insights through Power BI visualizations.
+
+The dashboard allows management to track:
+
+- Sales performance
+- Profitability
+- Customer activity
+- Product performance
+- Regional trends
+
+The purpose is to support better decision-making using data-driven insights.
+
+## Key Performance Indicators (KPIs)
+
+The dashboard focuses on four main performance indicators:
+
+- Total Sales
+- Total Profit
+- Total Customers
+- Profit Margin
+
+These KPIs provide a quick overview of the overall business performance and help identify growth opportunities.
+
+## Dashboard Analysis
+
+### Sales Performance
+
+The sales analysis shows how different categories and sub-categories contribute to overall revenue.
+
+The dashboard helps identify high-performing products and areas that generate the most sales, allowing management to focus on products that drive business growth.
+
+### Profit Analysis
+
+The profit analysis highlights areas generating strong returns and areas where profitability is affected by high costs or discounts.
+
+This helps identify opportunities to improve pricing strategies and increase overall profitability.
+
+### Customer Analysis
+
+Customer analysis provides insights into purchasing behavior and customer engagement.
+
+The dashboard helps identify customer trends, buying patterns, and areas where customer retention strategies can be improved.
+
+### Regional Performance
+
+Regional analysis compares sales and profit performance across different locations.
+
+This helps management understand which regions contribute most to business success and which areas may require improvement.
+
+### Time Trend Analysis
+
+Trend analysis tracks sales and profit changes over time using order dates.
+
+These patterns help with forecasting, planning, and understanding how business performance changes over different periods.
+
+## Conclusion
+
+This Power BI dashboard transforms raw transaction data into meaningful business insights.
+
+By analyzing sales, profit, customers, regional performance, and trends, management can make informed decisions based on data rather than assumptions.
+
+The dashboard supports improved profitability, better operational planning, and future business growth.
