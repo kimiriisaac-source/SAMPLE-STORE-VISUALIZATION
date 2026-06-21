@@ -1,6 +1,6 @@
 # Retail Business Intelligence Dashboard Report
 
-## Project Overview
+## Project Overview.
 
 This project focuses on creating a Power BI Retail Business Intelligence Dashboard using the Superstore dataset.
 
